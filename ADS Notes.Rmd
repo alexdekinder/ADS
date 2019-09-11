@@ -1,0 +1,44 @@
+---
+title: "ADS Notes"
+author: "Alexandra DeKinder, ad3540"
+date: "9/4/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+#Week 1
+
+Reproducible Data Analysis:
+  - Want to establish practices that allow your work to be reproducible 
+  
+3 ways to do this:
+  1. Set up project folder
+  2. Documentation
+  3. Project history and source control
+
+Project Setup (given in starter repo):
+
+  First identify a working folder that includes the following subfolders:
+    - Data: data used in the analysis (READ ONLY)
+    - Doc: the report or presentation file
+    - Figs: Contains generated figures. Images for report go in doc folder
+    - Lib: various files with function definitions and code
+    - Output: analysis output, processed datasets, logs, or other processed things
+
+
+#Week 2
+
+Demo on two starter codes in repo project 1
+
+In order to process data, just run Text_Processing.Rmd
+
+
+```{r}
+
+
+
+```
