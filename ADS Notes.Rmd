@@ -36,6 +36,22 @@ Demo on two starter codes in repo project 1
 
 In order to process data, just run Text_Processing.Rmd
 
+NLP:
+  -Speech recognition
+  - NL Understanding
+    - Context understanding
+  - Q and A
+  - NL Generation
+  - Text-to-Speech
+  
+For sentiment analysis, use NRC Emotion Lexicon source
+
+Topic Modeling (essentially an unsupervised algorithm)
+  -Clusters documents into topics
+  -Can NOT tell you how many different topics there are in a document
+  
+
+
 
 ```{r}
 
